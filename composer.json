@@ -1,0 +1,22 @@
+{
+  "name": "slexx/assets-manager",
+  "description": "Assets management",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "assets"
+  ],
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "slexx1234@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Slexx\\AssetsManager\\": "src/"
+    }
+  }
+}
